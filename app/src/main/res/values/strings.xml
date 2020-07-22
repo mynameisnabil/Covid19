@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NabilCovid19</string>
+    <string name="countries">Negara</string>
+    <string name="total_cases">Total kasus</string>
+    <string name="deaths">Dead</string>
+    <string name="recovered">recovered</string>
+    <string name="confirmed">confirmed</string>
+    <string name="nama_negara">nama negara</string>
+    <string name="currently">currently</string>
+    <string name="total_confirmed">total confirmed</string>
+    <string name="new_confirmed">new confirmed</string>
+    <string name="total_deaths">total death</string>
+    <string name="new_deaths">new death</string>
+    <string name="total_recovered">Total recovered</string>
+    <string name="new_recovered">new recovered</string>
+    <string name="country_name">Nama Negara</string>
+</resources>
